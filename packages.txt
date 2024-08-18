@@ -1,4 +1,5 @@
 # dolphin               | File Manager
+# dolphin-plugins       | Split Screen overlay
 # archlinux-xdg-menu    | Default App Automapping
 # snapper               | Snapshots
 # hyprland              | WM
