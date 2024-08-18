@@ -7,3 +7,4 @@
 # swaync                        | Notification Daemon
 # noto-fonts/cjk/emoji          | Fonts
 # xdg-desktop-portal-hyprland   | Screensharing and screencaps
+# polkit-kde-agent              | Authentication agent
