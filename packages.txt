@@ -1,5 +1,6 @@
 # dolphin               | File Manager
 # dolphin-plugins       | Split Screen overlay
+# kvantum               | Dolphin QT6 Theming
 # archlinux-xdg-menu    | Default App Automapping
 # snapper               | Snapshots
 # hyprland              | WM
