@@ -11,6 +11,7 @@
 # qt6-wayland                   | Library
 # qt5-wayland                   | Library
 # xorg-xhost                    | Prerequisite for programs (check wiki) xhost, considering switching to XAuthority
+# nwg-look                      | Theming
 
 -------------------------------------------------------------------------------------------------------------------
                                                     Useful commands
