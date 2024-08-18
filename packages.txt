@@ -1,8 +1,9 @@
-# dolphin               | File Manager
-# dolphin-plugins       | Split Screen overlay
-# kvantum               | Dolphin QT6 Theming
-# archlinux-xdg-menu    | Default App Automapping
-# snapper               | Snapshots
-# hyprland              | WM
-# swaync                | Notification Daemon
-# noto-fonts/cjk/emoji  | Fonts
+# dolphin                       | File Manager
+# dolphin-plugins               | Split Screen overlay
+# kvantum                       | Dolphin QT6 Theming
+# archlinux-xdg-menu            | Default App Automapping
+# snapper                       | Snapshots
+# hyprland                      | WM
+# swaync                        | Notification Daemon
+# noto-fonts/cjk/emoji          | Fonts
+# xdg-desktop-portal-hyprland   | Screensharing and screencaps
