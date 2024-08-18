@@ -5,3 +5,4 @@
 # snapper               | Snapshots
 # hyprland              | WM
 # swaync                | Notification Daemon
+# noto-fonts/cjk/emoji  | Fonts
