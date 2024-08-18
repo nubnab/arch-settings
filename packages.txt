@@ -10,4 +10,4 @@
 # polkit-kde-agent              | Authentication agent
 # qt6-wayland                   | Library
 # qt5-wayland                   | Library
-# xorg-xhost                    | Prerequisite for programs (check wiki)
+# xorg-xhost                    | Prerequisite for programs (check wiki) xhost, considering switching to XAuthority
