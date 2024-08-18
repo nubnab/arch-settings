@@ -11,3 +11,9 @@
 # qt6-wayland                   | Library
 # qt5-wayland                   | Library
 # xorg-xhost                    | Prerequisite for programs (check wiki) xhost, considering switching to XAuthority
+
+-------------------------------------------------------------------------------------------------------------------
+                                                    Useful commands
+-------------------------------------------------------------------------------------------------------------------
+gsettings set org.gnome.desktop.interface cursor-theme "name"
+gsettings set org.gnome.desktop.interface cursor-size "size"
