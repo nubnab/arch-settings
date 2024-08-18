@@ -1,0 +1,5 @@
+# dolphin               | File Manager
+# archlinux-xdg-menu    | Default App Automapping
+# snapper               | Snapshots
+# hyprland              | WM
+# swaync                | Notification Daemon
