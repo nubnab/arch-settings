@@ -8,3 +8,5 @@
 # noto-fonts/cjk/emoji          | Fonts
 # xdg-desktop-portal-hyprland   | Screensharing and screencaps
 # polkit-kde-agent              | Authentication agent
+# qt6-wayland                   | Library
+# qt5-wayland                   | Library
