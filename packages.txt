@@ -12,9 +12,16 @@
 # qt5-wayland                   | Library
 # xorg-xhost                    | Prerequisite for programs (check wiki) xhost, considering switching to XAuthority
 # nwg-look                      | Theming
+# zsh                           | Shell of choice
+# oh-my-zsh                     | Shell extentions
+# staship                       | Shell prompt
+# yazi                          | File Browser in terminal
+# wallust                       | Automatic color pallette generation from Wallpapers
+# aylurs-gtk-shell              | GTK Framework for widgets and bars
 
 -------------------------------------------------------------------------------------------------------------------
                                                     Useful commands
 -------------------------------------------------------------------------------------------------------------------
+nomodeset | kernel parameter necessary during install for Nvidia GPU
 gsettings set org.gnome.desktop.interface cursor-theme "name"
 gsettings set org.gnome.desktop.interface cursor-size "size"
