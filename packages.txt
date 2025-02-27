@@ -25,3 +25,6 @@
 nomodeset | kernel parameter necessary during install for Nvidia GPU
 gsettings set org.gnome.desktop.interface cursor-theme "name"
 gsettings set org.gnome.desktop.interface cursor-size "size"
+
+
+TODO: Look into Ansible for a setup
